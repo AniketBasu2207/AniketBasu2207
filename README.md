@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/7a978378778d9675a9e95ebc336446f1d9a00aab3856d0469d4bf835f4d76309/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3634313065626638653438336235626232633836656232372f3634313065626638653438336235336436313836666335335f41424d253230436f6c6c656765253230576562253230646576656c6f7065722532306d61696e2e6a7067)
 
 <h1 align="center">Hi 👋, I'm Aniket Basu</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketbasu2207&label=Profile%20views&color=0e75b6&style=flat" alt="aniketbasu2207" /> </p>
